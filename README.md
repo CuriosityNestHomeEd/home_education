@@ -1,2 +1,8 @@
-# home_education
-This repository is a list of notes on where to find particular homeschooling resources. The user is individually responsible for ensuring they follow all laws for the area they live and not depend on this repository for legal advisement. No money is made with links shared. This is information sharing only.
+# Home Education
+This repository is a list of notes on where to find particular homeschooling resources. The user is individually responsible for ensuring they follow all laws for the area they live and not depend on this repository for legal advisement. No money is made with links shared. This is information sharing only. Any opinions and mistakes written here are my own and not reflective of any company I may volunteer with.
+
+A Little Background
+
+We began homeschooling our children during 2020. Yes, when COVID caused US schools to close down. That was the timeframe, but not the why. We had always discussed that we would take every year and discuss what the school situation would be for our children. They've gone to private school, public school, and homeschool during their education careers. We have tried various forms of curricula. From brief moments of unschooling, to parent led intensive explicit instruction, every choice we made has been what is best for our children and our family during our current time of life. Every season of life is different. I am not anti public school. Nor do I believe that homeschooling is or should be for every family. That being said, I frequently find myself sharing tales of what has worked and what hasn't for us and guiding families who are new or just researching homeschooling to resources.
+
+What you will find in this repository is a mix of resources, but you may notice that unlike many homeschooling information repositories on the internet I will not be pushing religious curricula. In fact, I have found for the most part for our family sticking with secular curriculum works best for us. Or at least as secular as possible.
