@@ -8,12 +8,16 @@ explicit instruction in order to learn to read.
 Strategies to teach children to read:
 Orton-Gillingham and Structured Literacy
   https://www.orton-gillingham.com/
+  
 Information on the Science of Reading
   https://www.improvingliteracy.org/science-of-reading
+  
 Understood.org How to Teach Sight Words
   https://www.understood.org/en/articles/how-to-teach-sight-words
+  
 McGrawHill - What is the Science of Reading?
   https://www.mheducation.com/prek-12/resources/science-of-literacy/science-of-reading.html
+  
 University of San Diego: Whatis the Science of Reading? A Complete Guide for Educators
   https://pce.sandiego.edu/science-of-reading/
 
@@ -21,21 +25,28 @@ University of San Diego: Whatis the Science of Reading? A Complete Guide for Edu
 Books and Curricula Resources:
 Teach Your Child to Read in 100 Easy Lessons
   https://a.co/d/8kk3x5u
+  
 Learn to Read Activity Book: 1010 Fun Phonics Lessons to Teach Your Child to Read
   https://a.co/d/9krcfzE
+  
 All About Reading 
   https://www.allaboutlearningpress.com/all-about-reading/
+  
 Hooked on Phonics
   https://www.hookedonphonics.com/
 
 Games and apps:
 Squishyland - The Fidget Game
   https://www.thefidgetgame.com/products/squishy-land-base-game?variant=44606018093188
+  
 Reading Eggs
   https://readingeggs.com/
+  
 ABCMouse
   https://www.abcmouse.com/
+  
 Duolingo ABC
   https://abc.duolingo.com/
+  
 Teach Your Monster to Read
   https://www.teachyourmonster.org/
