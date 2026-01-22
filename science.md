@@ -19,5 +19,3 @@ Bookshark Science
   https://www.bookshark.com/shop-by-subjects/science-packages
 The Good and the Beautiful Science
   https://www.goodandbeautiful.com/search?q=science&options%5Bprefix%5D=last
-
-
