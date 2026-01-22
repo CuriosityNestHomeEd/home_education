@@ -9,4 +9,4 @@ What you will find in this repository is a mix of resources, but you may notice 
 
 When getting started first and foremost, check your state laws for homeschooling. Second, be prepared for the deschooling period. Seasoned homeschoolers recommend up to a month per grade level that your child was in public school as a way to acclimate to your new routines.
 
-Third, remember this is whats the best for your child(ren). If sending them to public school, or private school, is their better option do that. If homeschooling is the better option, than do that. This page is not for putting down any legal way to make sure your child(ren) are educated.
+Third, remember this is whats the best for your child(ren). If sending them to public school, or private school, is their better option do that. If homeschooling is the better option, then do that. This page is not for putting down any legal way to make sure your child(ren) are educated.
