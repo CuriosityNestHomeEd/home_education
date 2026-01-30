@@ -25,6 +25,8 @@ Georgia
 
 Maryland:
   https://www.marylandpublicschools.org/about/Pages/DEE/NPSA/Home-Instruction.aspx
+  Secular Homeschool Umbrella in MD: https://www.facebook.com/MarylandHomeschoolreviews/
+  Maryland Listing of Homeschool Umbrellas https://oitinfo.msde.maryland.gov/NSAB/NSABSchoolList/TotalHomeInstructionList
 
 New York:
   https://www.nysed.gov/nonpublic-schools/home-instruction
