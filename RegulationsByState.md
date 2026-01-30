@@ -10,6 +10,12 @@ legal in all areas.</i></b>
 From the United States Education Department:
   https://www.ed.gov/birth-grade-12-education/education-choice/state-regulation-of-private-and-home-schools
 
+Alabama
+  https://www.alabamaachieves.org/homeschool/
+
+Arkansas
+  https://dese.ade.arkansas.gov/Offices/office-of-school-choice-and-parent-empowerment/home-schools/home-school-rules-and-laws
+  
 
 Georgia
   https://gadoe.org/parent-family-resources/home-school/
@@ -30,7 +36,14 @@ Texas
   https://tea.texas.gov/texas-schools/general-information/finding-a-school-for-your-child/home-schooling
   https://thsc.org/
   https://texashomeeducators.org/
-  
 
 Washington
   https://ospi.k12.wa.us/student-success/learning-alternatives/home-based-instruction
+
+Home School Legal Defense Association
+  https://hslda.org/
+  
+Coalition for Responsible Homeschooling
+  https://crhe.org/
+
+
