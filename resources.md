@@ -1,7 +1,7 @@
 Resources for Information
 
 This is not an extensive list of resources for more information on homeschooling or homeschooling curricula.
-Over time, these are not in a particular order due to resource overlap. Many of these will be
+Added over time, these are not in a particular order due to resource overlap. Many of these will be
 noted on particular subject pages in this Git.
 
 
@@ -53,6 +53,18 @@ Discoveryk12
   
 Carson Dellosa Education
   https://www.carsondellosa.com/
+
+Spectrum Workbooks
+  https://www.carsondellosa.com/brands/spectrum/
+
+Evan-Moor
+  https://www.carsondellosa.com/evan-moor/
+
+IXL Workbooks
+  https://www.carsondellosa.com/ixl/
+
+IXL Online
+  https://www.ixl.com/  
   
 Bookshark
   https://www.bookshark.com/
