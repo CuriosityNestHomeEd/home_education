@@ -26,6 +26,9 @@ Code Monkey
 Code Basics
   https://code-basics.com/
 
+Blocky Games
+  https://blockly.games/
+
 Ellipsis Education: Computer Science for Middle School
   https://ellipsiseducation.com/computer-science-for-middle-school
 
