@@ -13,6 +13,9 @@ From the United States Education Department:
 Alabama
   https://www.alabamaachieves.org/homeschool/
 
+Alaska
+  https://lam.alaska.gov/homeschooling
+
 Arkansas
   https://dese.ade.arkansas.gov/Offices/office-of-school-choice-and-parent-empowerment/home-schools/home-school-rules-and-laws
   
