@@ -17,6 +17,15 @@ FreeCodeCamp
 Code Basics
   https://code-basics.com/
 
+Future Coder
+  https://futurecoder.io/
+
+PYnative Python Programming
+  https://pynative.com/
+
+Saylor.org Academy
+  https://learn.saylor.org/course/index.php?categoryid=9
+
 TCM Academy
   https://academy.tcm-sec.com/
 
@@ -43,3 +52,15 @@ Learn Python.org
   
 OpenCourseWare by MIT
   https://ocw.mit.edu/
+
+OverTheWire (Linux/Unix Basics and more!)
+  https://overthewire.org/wargames/
+
+Alison: Empower Yourself
+  https://alison.com/courses/it
+
+Udemy
+  https://www.udemy.com/
+
+Coursera
+  https://www.coursera.org/
