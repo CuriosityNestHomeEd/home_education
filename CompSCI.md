@@ -23,6 +23,9 @@ Code Monkey
 Code Basics
   https://code-basics.com/
 
+Ellipsis Education: Computer Science for Middle School
+  https://ellipsiseducation.com/computer-science-for-middle-school
+
 Future Coder
   https://futurecoder.io/
 
