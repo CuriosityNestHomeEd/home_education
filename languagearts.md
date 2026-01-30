@@ -9,3 +9,8 @@ Institute for Excellence in Writing (IEW)
 Hearth and Story
   https://www.hearthandstory.com/
 
+Guest Hallow's Beowulf's Grammar
+  https://guesthollow.com/store/beowulfs-grammar/
+
+Grammar Galaxy
+  https://funtolearnbooks.com/grammar-galaxy/
