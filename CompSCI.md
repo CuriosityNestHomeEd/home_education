@@ -8,6 +8,9 @@ Coding for Kids
 Code.org
   https://code.org/
 
+Scratch
+  https://scratch.mit.edu/
+  
 No Starch Press
   https://nostarch.com/
 
