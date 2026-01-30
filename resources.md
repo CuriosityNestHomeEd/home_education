@@ -83,7 +83,10 @@ Essentials in Writing (EIW)
   
 Schoolnest
   https://www.theschoolnest.com/
-  
+
+Ani Ve Ami: A Jewish Living Education Curriculum 
+   https://ani-ve-ami.com/
+   
 Pandia Press Books
   https://pandiapress.com/
   
@@ -96,12 +99,35 @@ Christianbook
 Mark Twain Media
   https://www.carsondellosa.com/brands/mark-twain-media/
 
+Spanish Academy
+  https://www.spanish.academy/
+  
+Master Books
+  https://www.masterbooks.com/homeschool-curriculum
+
+Power Homeschool
+  https://www.powerhomeschool.org/
+
+Beautiful Feet
+  https://bfbooks.com/
+
+Thinkwell Homeschool
+  https://www.thinkwellhomeschool.com/
+
+The Charlotte Mason Plenary
+  https://cmplenary.com/
 
 
-Blogs: 
+
+Blogs: **some are no longer being updated**
 1) Freedom Homeschooling contains list by subject of FREE homeschooling materials.
       https://freedomhomeschooling.com/
-
 2) Homeschool Sanity  https://homeschoolsanity.com/
 3) Our Jewish Homeschool Blog   https://jewishhomeschool.blogspot.com/
 4) The Homeschool Mom   https://www.thehomeschoolmom.com/
+5) The Unlikely Homeschool https://www.theunlikelyhomeschool.com/
+6) Confessions of a Homeschooler https://www.confessionsofahomeschooler.com/blog/category/homeschool
+7) Simple Homeschool with Jamie C. Martin https://simplehomeschool.net/
+8) https://freedomhomeschooling.com/
+9) 123 Homeschool 4 me https://www.123homeschool4me.com/
+10) 
