@@ -40,6 +40,9 @@ edX
   
 Bookshark - Is the "secular" arm of Sonlight, which is a religous literature based curriculum.
   https://www.bookshark.com/shop-by-subjects/reading-with-history-packages
+
+Guest Hollow
+  https://guesthollow.com/shop/
   
 The Good and the Beautiful - this is a religious infused curriculum that has some free
   options. Especially during the 2020-2022 push for homeschooling they wanted to keep
