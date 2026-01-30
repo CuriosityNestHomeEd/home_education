@@ -8,11 +8,17 @@ Coding for Kids
 Code.org
   https://code.org/
 
+No Starch Press
+  https://nostarch.com/
+
 CS for All
   https://csforall.org/en-US
 
 FreeCodeCamp
   https://www.freecodecamp.org/
+
+Code Monkey
+  https://www.codemonkey.com/
 
 Code Basics
   https://code-basics.com/
@@ -64,3 +70,6 @@ Udemy
 
 Coursera
   https://www.coursera.org/
+
+Microsoft Training
+  https://learn.microsoft.com/en-us/training/browse/
