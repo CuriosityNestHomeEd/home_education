@@ -11,6 +11,9 @@ Code.org
 No Starch Press
   https://nostarch.com/
 
+Everything You Need to Ace Computer Science and Coding In One Big Fat Notebook
+  https://www.barnesandnoble.com/w/everything-you-need-to-ace-computer-science-and-coding-in-one-big-fat-notebook-workman-publishing/1134542740
+
 CS for All
   https://csforall.org/en-US
 
