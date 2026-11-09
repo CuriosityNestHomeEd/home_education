@@ -27,5 +27,6 @@ Online Resources:
 - LIttle Homeschool Records: Record Keeping Tools https://www.littlehomeschoolrecords.com/record-keeping-tools
 - Trello https://trello.com/
 - Homeschool Hall https://homeschoolhall.com/
-- 
-- 
+
+  <br>
+  Return to Index Page https://github.com/CuriosityNestHomeEd/home_education/blob/main/index.md 
