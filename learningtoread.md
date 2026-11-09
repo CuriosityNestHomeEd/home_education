@@ -5,51 +5,28 @@ different children. Some children seem to pick up naturally while they are being
 others with rote memorization, and then there is a section of the population that needs 
 explicit instruction in order to learn to read.
 
-Strategies to teach children to read:
-Orton-Gillingham and Structured Literacy
-  https://www.orton-gillingham.com/
-  
-Information on the Science of Reading
-  https://www.improvingliteracy.org/science-of-reading
-  
-Understood.org How to Teach Sight Words
-  https://www.understood.org/en/articles/how-to-teach-sight-words
-  
-McGrawHill - What is the Science of Reading?
-  https://www.mheducation.com/prek-12/resources/science-of-literacy/science-of-reading.html
-  
-University of San Diego: Whatis the Science of Reading? A Complete Guide for Educators
-  https://pce.sandiego.edu/science-of-reading/
+**Strategies to teach children to read:**
+- Orton-Gillingham and Structured Literacy (https://www.orton-gillingham.com/)
+- Information on the Science of Reading (https://www.improvingliteracy.org/science-of-reading)
+- Understood.org How to Teach Sight Words (https://www.understood.org/en/articles/how-to-teach-sight-words)
+- McGrawHill - What is the Science of Reading? (https://www.mheducation.com/prek-12/resources/science-of-literacy/science-of-reading.html)
+- University of San Diego: Whatis the Science of Reading? A Complete Guide for Educators (https://pce.sandiego.edu/science-of-reading/)
 
 
-Books and Curricula Resources:
-Teach Your Child to Read in 100 Easy Lessons
-  https://a.co/d/8kk3x5u
-  
-Learn to Read Activity Book: 1010 Fun Phonics Lessons to Teach Your Child to Read
-  https://a.co/d/9krcfzE
-  
-All About Reading 
-  https://www.allaboutlearningpress.com/all-about-reading/
-  
-Hooked on Phonics
-  https://www.hookedonphonics.com/
+**Books and Curricula Resources:**
+- Teach Your Child to Read in 100 Easy Lessons (https://a.co/d/8kk3x5u)
+- Learn to Read Activity Book: 1010 Fun Phonics Lessons to Teach Your Child to Read (https://a.co/d/9krcfzE)
+- All About Reading (https://www.allaboutlearningpress.com/all-about-reading/)
+- Hooked on Phonics (https://www.hookedonphonics.com/)
+- Treasure Hunt Reading (https://treasurehunt.prenda.co/)
 
-Games and apps:
-Squishyland - The Fidget Game
-  https://www.thefidgetgame.com/products/squishy-land-base-game?variant=44606018093188
-  
-Reading Eggs
-  https://readingeggs.com/
-  
-ABCMouse
-  https://www.abcmouse.com/
-  
-Duolingo ABC
-  https://abc.duolingo.com/
-  
-Teach Your Monster to Read
-  https://www.teachyourmonster.org/
+**Games and apps:**
+- Squishyland - The Fidget Game (ttps://www.thefidgetgame.com/products/squishy-land-base-game?variant=44606018093188)
+- Reading Eggs (https://readingeggs.com/)
+- ABCMouse (https://www.abcmouse.com/)
+- Reading .com (https://www.reading.com/)
+- Duolingo ABC (https://abc.duolingo.com/)
+- Teach Your Monster to Read (https://www.teachyourmonster.org/)
 
   <br>
 - [Return to Index Page](https://github.com/CuriosityNestHomeEd/home_education/blob/main/index.md)
