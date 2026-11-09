@@ -1,4 +1,4 @@
-<H3>Mathematics Curricula</H3>
+<H1>Mathematics Curricula</H1>
 
 There is a variety of math curricula available today, both in textbook form and online.
 Even those that teach using comic book style instruction. Below is a list, at this time
