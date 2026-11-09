@@ -128,6 +128,6 @@ Blogs: **some are no longer being updated**
 5) The Unlikely Homeschool https://www.theunlikelyhomeschool.com/
 6) Confessions of a Homeschooler https://www.confessionsofahomeschooler.com/blog/category/homeschool
 7) Simple Homeschool with Jamie C. Martin https://simplehomeschool.net/
-8) https://freedomhomeschooling.com/
-9) 123 Homeschool 4 me https://www.123homeschool4me.com/
+8) 123 Homeschool 4 me https://www.123homeschool4me.com/
+9) 
 10) 
