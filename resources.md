@@ -4,15 +4,14 @@ This is not an extensive list of resources for more information on homeschooling
 Added over time, these are not in a particular order due to resource overlap. Many of these will be
 noted on particular subject pages in this Git.
 
-
+**Curriculum Sources:**
 - Core Knowledge (https://www.coreknowledge.org/)
-- Cathy Duffy Reviews (https://cathyduffyreviews.com/)
-- Rainbow Resource Center **Free consulations for curriculum questions** (https://www.rainbowresource.com/)
+- Oak National Academy (https://www.thenational.academy/)
+- Rainbow Resource Center (https://www.rainbowresource.com/)
 - Secular Eclectic Academic (https://seahomeschoolers.com/)
 - Homeschool Legal Defense Association (https://hslda.org/)
 - Georgia Virtual Learning (https://gavirtuallearning.org/ga-digital-curriculum/free-resources/)
 - Well Trained Mind (https://welltrainedmind.com/)
-- NWT Literacy Council (https://nwtliteracy.ca/program-areas/866/resources)
 - Education.com (https://www.education.com/)
 - Khan Academy (https://www.khanacademy.org/)
 - IXL (https://www.ixl.com/)
@@ -43,8 +42,12 @@ noted on particular subject pages in this Git.
 - The Charlotte Mason Plenary (https://cmplenary.com/)
 - Miacademy (https://miacademy.co/)
 
+**Other Resources:**
+- Cathy Duffy Reviews (https://cathyduffyreviews.com/)
+- NWT Literacy Council (https://nwtliteracy.ca/program-areas/866/resources)
 
-Blogs: **some are no longer being updated**
+**Blogs:**
+*some are no longer being updated*
 1) Freedom Homeschooling contains list by subject of FREE homeschooling materials. (https://freedomhomeschooling.com/)
 2) Homeschool Sanity (https://homeschoolsanity.com/)
 3) Our Jewish Homeschool Blog  (https://jewishhomeschool.blogspot.com/)
