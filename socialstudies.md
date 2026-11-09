@@ -49,3 +49,4 @@ The Good and the Beautiful - this is a religious infused curriculum that has som
   homeschooling affordable and accessible to as many families as possible.
   https://www.goodandbeautiful.com/pages/choose-history
   
+- [Return to Index Page](https://github.com/CuriosityNestHomeEd/home_education/blob/main/index.md)
