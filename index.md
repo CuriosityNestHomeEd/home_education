@@ -17,4 +17,4 @@ This page is a work in progress. I do not know everything, and the world of home
 - **[On the Topic of Raising Good Humans](https://github.com/CuriosityNestHomeEd/home_education/blob/main/123.md)**
 
 <br>
-<I>Artificial Intelligence was not used in the creation of the page. Errors are human.</I>
+<I>Artificial Intelligence was not used in the creation of this page. Errors are human in nature.</I>
