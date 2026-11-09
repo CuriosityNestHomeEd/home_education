@@ -51,5 +51,5 @@ Duolingo ABC
 Teach Your Monster to Read
   https://www.teachyourmonster.org/
 
-<br>
-**[Return to Index Page](https://github.com/CuriosityNestHomeEd/home_education/blob/main/index.md)**
+  <br>
+  Return to Index Page https://github.com/CuriosityNestHomeEd/home_education/blob/main/index.md 
