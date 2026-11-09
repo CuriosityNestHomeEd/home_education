@@ -85,3 +85,7 @@ Coursera
 
 Microsoft Training
   https://learn.microsoft.com/en-us/training/browse/
+
+  <br>
+  **[Return to Index Page](https://github.com/CuriosityNestHomeEd/home_education/blob/main/index.md)**
+
