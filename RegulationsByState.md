@@ -54,7 +54,9 @@ Maine
 
 Maryland:
   https://www.marylandpublicschools.org/about/Pages/DEE/NPSA/Home-Instruction.aspx
+  
   Secular Homeschool Umbrella in MD: https://www.facebook.com/MarylandHomeschoolreviews/
+  
   Maryland Listing of Homeschool Umbrellas https://oitinfo.msde.maryland.gov/NSAB/NSABSchoolList/TotalHomeInstructionList
 
 Massachusetts
@@ -102,7 +104,9 @@ Tennessee
 
 Texas
   https://tea.texas.gov/texas-schools/general-information/finding-a-school-for-your-child/home-schooling
+  
   https://thsc.org/
+  
   https://texashomeeducators.org/
 
 Utah
