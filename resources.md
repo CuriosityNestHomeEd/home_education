@@ -41,6 +41,7 @@ noted on particular subject pages in this Git.
 - Beautiful Feet (https://bfbooks.com/)
 - Thinkwell Homeschool (https://www.thinkwellhomeschool.com/)
 - The Charlotte Mason Plenary (https://cmplenary.com/)
+- Miacademy (https://miacademy.co/)
 
 
 Blogs: **some are no longer being updated**
