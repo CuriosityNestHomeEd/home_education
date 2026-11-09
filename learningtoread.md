@@ -21,7 +21,7 @@ explicit instruction in order to learn to read.
 - Treasure Hunt Reading (https://treasurehunt.prenda.co/)
 
 **Games and apps:**
-- Squishyland - The Fidget Game (ttps://www.thefidgetgame.com/products/squishy-land-base-game?variant=44606018093188)
+- Squishyland - The Fidget Game (https://www.thefidgetgame.com/products/squishy-land-base-game?variant=44606018093188)
 - Reading Eggs (https://readingeggs.com/)
 - ABCMouse (https://www.abcmouse.com/)
 - Reading .com (https://www.reading.com/)
