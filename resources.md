@@ -31,7 +31,6 @@ noted on particular subject pages in this Git.
 - Schoolnest (https://www.theschoolnest.com/)
 - Ani Ve Ami: A Jewish Living Education Curriculum  (https://ani-ve-ami.com/)
 - Pandia Press Books (https://pandiapress.com/)
-- Thrift Books (https://www.thriftbooks.com/)
 - Christianbook (https://www.christianbook.com/page/homeschool?navcat=Homeschool)
 - Mark Twain Media (https://www.carsondellosa.com/brands/mark-twain-media/)
 - Spanish Academy (https://www.spanish.academy/)
@@ -39,12 +38,14 @@ noted on particular subject pages in this Git.
 - Power Homeschool (https://www.powerhomeschool.org/)
 - Beautiful Feet (https://bfbooks.com/)
 - Thinkwell Homeschool (https://www.thinkwellhomeschool.com/)
-- The Charlotte Mason Plenary (https://cmplenary.com/)
 - Miacademy (https://miacademy.co/)
+- Thrift Books (https://www.thriftbooks.com/)
+- EBay (https://www.ebay.com/)
 
 **Other Resources:**
 - Cathy Duffy Reviews (https://cathyduffyreviews.com/)
 - NWT Literacy Council (https://nwtliteracy.ca/program-areas/866/resources)
+- The Charlotte Mason Plenary (https://cmplenary.com/)
 
 **Blogs:**
 *some are no longer being updated*
