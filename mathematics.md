@@ -1,4 +1,4 @@
-Mathematics Curricula
+<H3>Mathematics Curricula</H3>
 
 There is a variety of math curricula available today, both in textbook form and online.
 Even those that teach using comic book style instruction. Below is a list, at this time
@@ -49,7 +49,8 @@ edX
 Zearn Math
   https://www.zearn.org
   
-
+  <br>
+  Return to Index Page https://github.com/CuriosityNestHomeEd/home_education/blob/main/index.md 
 
 
 
