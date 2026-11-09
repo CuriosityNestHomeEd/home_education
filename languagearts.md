@@ -5,5 +5,8 @@
 - Hearth and Story (https://www.hearthandstory.com/)
 - Guest Hallow's Beowulf's Grammar (https://guesthollow.com/store/beowulfs-grammar/)
 - Grammar Galaxy (https://funtolearnbooks.com/grammar-galaxy/)
+- All About Learning Press (https://www.allaboutlearningpress.com/)
+- Prenda Glyph Guild Spelling (https://glyphguild.prenda.com/)
 
+<br></br>
 - [Return to Index Page](https://github.com/CuriosityNestHomeEd/home_education/blob/main/index.md)
