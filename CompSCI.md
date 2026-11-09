@@ -2,90 +2,35 @@
 
 <i>Remember to stay ethical always.</i>
 
-Coding for Kids
-  https://codingforkids.io/
-
-Code.org
-  https://code.org/
-
-Scratch
-  https://scratch.mit.edu/
-  
-No Starch Press
-  https://nostarch.com/
-
-Everything You Need to Ace Computer Science and Coding In One Big Fat Notebook
-  https://www.barnesandnoble.com/w/everything-you-need-to-ace-computer-science-and-coding-in-one-big-fat-notebook-workman-publishing/1134542740
-
-CS for All
-  https://csforall.org/en-US
-
-FreeCodeCamp
-  https://www.freecodecamp.org/
-
-Code Monkey
-  https://www.codemonkey.com/
-
-Code Basics
-  https://code-basics.com/
-
-Blocky Games
-  https://blockly.games/
-
-Ellipsis Education: Computer Science for Middle School
-  https://ellipsiseducation.com/computer-science-for-middle-school
-
-Future Coder
-  https://futurecoder.io/
-
-PYnative Python Programming
-  https://pynative.com/
-
-Saylor.org Academy
-  https://learn.saylor.org/course/index.php?categoryid=9
-
-TCM Academy
-  https://academy.tcm-sec.com/
-
-SimplyCyber
-  https://www.simplycyber.io/
-
-Antisyphon Training
-  https://www.antisyphontraining.com/
-  
-Just Hacking Training
-  https://www.justhacking.com/
-
-TryHackMe (THM)
-  https://tryhackme.com/
-
-Hack The Box (HTB)
-  https://www.hackthebox.com/
-  
-  Hack The Box Academy
-    https://academy.hackthebox.com/
-  
-Learn Python.org
-  https://www.learnpython.org/
-  
-OpenCourseWare by MIT
-  https://ocw.mit.edu/
-
-OverTheWire (Linux/Unix Basics and more!)
-  https://overthewire.org/wargames/
-
-Alison: Empower Yourself
-  https://alison.com/courses/it
-
-Udemy
-  https://www.udemy.com/
-
-Coursera
-  https://www.coursera.org/
-
-Microsoft Training
-  https://learn.microsoft.com/en-us/training/browse/
+- Coding for Kids (https://codingforkids.io/)
+- Code.org (https://code.org/)
+- Scratch (https://scratch.mit.edu/)
+- No Starch Press (https://nostarch.com/)
+- Everything You Need to Ace Computer Science and Coding In One Big Fat Notebook (https://www.barnesandnoble.com/w/everything-you-need-to-ace-computer-science-and-coding-in-one-big-fat-notebook-workman-publishing/1134542740)
+- CS for All (https://csforall.org/en-US)
+- FreeCodeCamp (https://www.freecodecamp.org/)
+- Code Monkey (https://www.codemonkey.com/)
+- Code Basics (https://code-basics.com/)
+- Blocky Games (https://blockly.games/)
+- Ellipsis Education: Computer Science for Middle School (https://ellipsiseducation.com/computer-science-for-middle-school)
+- Future Coder (https://futurecoder.io/)
+- PYnative Python Programming (https://pynative.com/)
+- Saylor.org Academy (https://learn.saylor.org/course/index.php?categoryid=9)
+- TCM Academy (https://academy.tcm-sec.com/)
+- SimplyCyber (https://www.simplycyber.io/)
+- Antisyphon Training (https://www.antisyphontraining.com/)
+- Just Hacking Training (https://www.justhacking.com/)
+- TryHackMe (THM) (https://tryhackme.com/)
+- Hack The Box (HTB) (https://www.hackthebox.com/)
+- Hack The Box Academy (https://academy.hackthebox.com/)
+- Learn Python.org (https://www.learnpython.org/)
+- OpenCourseWare by MIT (https://ocw.mit.edu/)
+- OverTheWire (Linux/Unix Basics and more!) (https://overthewire.org/wargames/)
+- Alison: Empower Yourself (https://alison.com/courses/it)
+- Udemy (https://www.udemy.com/)
+- Coursera (https://www.coursera.org/)
+- Microsoft Training (https://learn.microsoft.com/en-us/training/browse/)
 
   <br>
-  **[Return to Index Page](https://github.com/CuriosityNestHomeEd/home_education/blob/main/index.md)**
+ - **[Return to Index Page](https://github.com/CuriosityNestHomeEd/home_education/blob/main/index.md)**
 
