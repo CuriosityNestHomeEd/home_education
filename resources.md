@@ -9,7 +9,6 @@ noted on particular subject pages in this Git.
 - Oak National Academy (https://www.thenational.academy/)
 - Rainbow Resource Center (https://www.rainbowresource.com/)
 - Secular Eclectic Academic (https://seahomeschoolers.com/)
-- Homeschool Legal Defense Association (https://hslda.org/)
 - Georgia Virtual Learning (https://gavirtuallearning.org/ga-digital-curriculum/free-resources/)
 - Well Trained Mind (https://welltrainedmind.com/)
 - Education.com (https://www.education.com/)
@@ -46,6 +45,7 @@ noted on particular subject pages in this Git.
 - Cathy Duffy Reviews (https://cathyduffyreviews.com/)
 - NWT Literacy Council (https://nwtliteracy.ca/program-areas/866/resources)
 - The Charlotte Mason Plenary (https://cmplenary.com/)
+- Homeschool Legal Defense Association (https://hslda.org/)
 
 **Blogs:**
 *some are no longer being updated*
