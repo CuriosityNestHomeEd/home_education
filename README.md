@@ -12,3 +12,6 @@ When getting started first and foremost, check your state laws for homeschooling
 Finally, remember this is whats the best for your child(ren). If sending them to public school, or private school, is their better option do that. If homeschooling is the better option, then do that. This page is not for putting down any legal way to make sure your child(ren) are educated.
 
 ***WARNING: do NOT scan the QR code file in canary.png. It is a canary token and will capture your location.***
+  <br>
+  **[Return to Index Page](https://github.com/CuriosityNestHomeEd/home_education/blob/main/index.md)**
+
