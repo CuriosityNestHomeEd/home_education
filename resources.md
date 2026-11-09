@@ -46,6 +46,7 @@ noted on particular subject pages in this Git.
 - NWT Literacy Council (https://nwtliteracy.ca/program-areas/866/resources)
 - The Charlotte Mason Plenary (https://cmplenary.com/)
 - Homeschool Legal Defense Association (https://hslda.org/)
+- John Hopkins School of Education Homeschool Hub (https://education.jhu.edu/edpolicy/policy-research-initiatives/homeschool-hub/)
 
 **Blogs:**
 *some are no longer being updated*
