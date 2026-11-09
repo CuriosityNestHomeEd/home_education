@@ -26,3 +26,5 @@ Bookshark Science
   
 The Good and the Beautiful Science
   https://www.goodandbeautiful.com/search?q=science&options%5Bprefix%5D=last
+
+- [Return to Index Page](https://github.com/CuriosityNestHomeEd/home_education/blob/main/index.md)
