@@ -51,4 +51,6 @@ Home School Legal Defense Association
 Coalition for Responsible Homeschooling
   https://crhe.org/
 
+  <br>
+  **[Return to Index Page](https://github.com/CuriosityNestHomeEd/home_education/blob/main/index.md)**
 
