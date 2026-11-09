@@ -29,4 +29,4 @@ Online Resources:
 - Homeschool Hall https://homeschoolhall.com/
 
   <br>
-  Return to Index Page https://github.com/CuriosityNestHomeEd/home_education/blob/main/index.md 
+- [Return to Index Page](https://github.com/CuriosityNestHomeEd/home_education/blob/main/index.md)
