@@ -3,7 +3,7 @@
 In no particular order. These are not strictly secular sources. Please review to make sure
 they align with your values.
 
-- Science Mom h(ttps://sciencemom.teachable.com/)
+- Science Mom (https://sciencemom.teachable.com/)
 - Secular Eclectic Academic (https://seahomeschoolers.com/store/product-category/science/)
 - Science Kids (https://www.sciencekids.co.nz/)
 - Noeo Science (https://noeoscience.com/)
