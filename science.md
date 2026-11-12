@@ -4,7 +4,7 @@ In no particular order. These are not strictly secular sources. Please review to
 they align with your values.
 
 - Science Mom h(ttps://sciencemom.teachable.com/)
-- Secular Eclectic Academic (https://seahomeschoolers.com/store/?s=science&post_type=product&dgwt_wcas=1)
+- Secular Eclectic Academic (https://seahomeschoolers.com/store/product-category/science/)
 - Science Kids (https://www.sciencekids.co.nz/)
 - Noeo Science (https://noeoscience.com/)
 - Pandia Press Real Science Odyseey (https://pandiapress.com/pages/our-publications)
