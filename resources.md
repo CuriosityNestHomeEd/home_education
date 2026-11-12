@@ -49,6 +49,10 @@ noted on particular subject pages in this Git.
 - Homeschool Legal Defense Association (https://hslda.org/)
 - John Hopkins School of Education Homeschool Hub (https://education.jhu.edu/edpolicy/policy-research-initiatives/homeschool-hub/)
 
+**Tool Resources:**
+- Home Science Tools (https://www.homesciencetools.com/)
+- Carolina (https://www.carolina.com/)
+
 **Blogs:**
 *some are no longer being updated*
 1) Freedom Homeschooling contains list by subject of FREE homeschooling materials. (https://freedomhomeschooling.com/)
