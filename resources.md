@@ -24,6 +24,7 @@ noted on particular subject pages in this Git.
 - IXL Online (https://www.ixl.com/)
 - Bookshark (https://www.bookshark.com/)
 - Build Your Library (https://buildyourlibrary.com/)
+- Blossom and Root (https://www.blossomandroot.com/)
 - The Good and the Beautiful (https://www.goodandbeautiful.com/)
 - Institute for Excellence in Writing (IEW) (https://iew.com/)
 - Essentials in Writing (EIW) (https://essentialsinwriting.com/)
