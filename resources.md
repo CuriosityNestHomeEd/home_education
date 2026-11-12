@@ -42,6 +42,7 @@ noted on particular subject pages in this Git.
 - EBay (https://www.ebay.com/)
 
 **Other Resources:**
+- Next Generation Science Standards (https://www.nextgenscience.org/)
 - Cathy Duffy Reviews (https://cathyduffyreviews.com/)
 - NWT Literacy Council (https://nwtliteracy.ca/program-areas/866/resources)
 - The Charlotte Mason Plenary (https://cmplenary.com/)
