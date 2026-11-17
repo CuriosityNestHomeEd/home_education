@@ -8,6 +8,7 @@ noted on particular subject pages in this Git.
 - ABCMouse (https://www.abcmouse.com/abc/)
 - Adventure Academy (https://www.adventureacademy.com/)
 - Ani Ve Ami: A Jewish Living Education Curriculum  (https://ani-ve-ami.com/)
+- Beautiful Feet (https://bfbooks.com/)
 - Bookshark (https://www.bookshark.com/)
 - Build Your Library (https://buildyourlibrary.com/)
 - Blossom and Root (https://www.blossomandroot.com/)
@@ -25,34 +26,33 @@ noted on particular subject pages in this Git.
 - IXL (https://www.ixl.com/)
 - IXL Workbooks (https://www.carsondellosa.com/ixl/)
 - Khan Academy (https://www.khanacademy.org/)
+- Mark Twain Media (https://www.carsondellosa.com/brands/mark-twain-media/)
+- Master Books (https://www.masterbooks.com/homeschool-curriculum)
+- Miacademy (https://miacademy.co/)
 - Oak National Academy (https://www.thenational.academy/)
+- Pandia Press Books (https://pandiapress.com/)
+- Power Homeschool (https://www.powerhomeschool.org/)
 - Rainbow Resource Center (https://www.rainbowresource.com/)
 - Schoolnest (https://www.theschoolnest.com/)
 - Secular Eclectic Academic (https://seahomeschoolers.com/)
-- Spectrum Workbooks (https://www.carsondellosa.com/brands/spectrum/)
-- Well Trained Mind (https://welltrainedmind.com/)
-- Pandia Press Books (https://pandiapress.com/)
-- Mark Twain Media (https://www.carsondellosa.com/brands/mark-twain-media/)
 - Spanish Academy (https://www.spanish.academy/)
-- Master Books (https://www.masterbooks.com/homeschool-curriculum)
-- Power Homeschool (https://www.powerhomeschool.org/)
-- Beautiful Feet (https://bfbooks.com/)
+- Spectrum Workbooks (https://www.carsondellosa.com/brands/spectrum/)
 - Thinkwell Homeschool (https://www.thinkwellhomeschool.com/)
-- Miacademy (https://miacademy.co/)
 - Thrift Books (https://www.thriftbooks.com/)
-
+- Well Trained Mind (https://welltrainedmind.com/)
 
 **Other Resources:**
-- Next Generation Science Standards (https://www.nextgenscience.org/)
 - Cathy Duffy Reviews (https://cathyduffyreviews.com/)
-- NWT Literacy Council (https://nwtliteracy.ca/program-areas/866/resources)
 - The Charlotte Mason Plenary (https://cmplenary.com/)
 - Homeschool Legal Defense Association (https://hslda.org/)
 - John Hopkins School of Education Homeschool Hub (https://education.jhu.edu/edpolicy/policy-research-initiatives/homeschool-hub/)
+- Next Generation Science Standards (https://www.nextgenscience.org/)
+- NWT Literacy Council (https://nwtliteracy.ca/program-areas/866/resources)
 
 **Tool Resources:**
-- Home Science Tools (https://www.homesciencetools.com/)
 - Carolina (https://www.carolina.com/)
+- Home Science Tools (https://www.homesciencetools.com/)
+
 
 **Blogs:**
 *some are no longer being updated*
