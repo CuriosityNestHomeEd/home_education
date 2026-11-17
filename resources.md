@@ -1,7 +1,7 @@
 ****Resources for Information****
 
 This is not an extensive list of resources for more information on homeschooling or homeschooling curricula.
-Added over time, these are not in a particular order due to resource overlap. Many of these will be
+Added over time, these are not in importance order due to resource overlap. Many of these will be
 noted on particular subject pages in this Git.
 
 **Curriculum Sources:**
