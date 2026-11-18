@@ -48,6 +48,7 @@ noted on particular subject pages in this Git.
 - The Charlotte Mason Plenary (https://cmplenary.com/)
 - Homeschool Legal Defense Association (https://hslda.org/)
 - John Hopkins School of Education Homeschool Hub (https://education.jhu.edu/edpolicy/policy-research-initiatives/homeschool-hub/)
+- Lakeshore Learning (https://www.lakeshorelearning.com/)
 - Next Generation Science Standards (https://www.nextgenscience.org/)
 - NWT Literacy Council (https://nwtliteracy.ca/program-areas/866/resources)
 
