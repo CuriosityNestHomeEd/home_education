@@ -13,6 +13,7 @@ This page is a work in progress. I do not know everything, and the world of home
 - **[Record Keeping](https://github.com/CuriosityNestHomeEd/home_education/blob/main/records.md)**
 - **[Resources](https://github.com/CuriosityNestHomeEd/home_education/blob/main/resources.md)**
 - **[Computer Science / Coding / Cybersecurity](https://github.com/CuriosityNestHomeEd/home_education/blob/main/CompSCI.md)**
+- **[High School](https://github.com/CuriosityNestHomeEd/home_education/blob/main/highschool.md)**
 - **[University Level](https://github.com/CuriosityNestHomeEd/home_education/blob/main/FreeUniversityLevel.md)**
 - **[On the Topic of Raising Good Humans](https://github.com/CuriosityNestHomeEd/home_education/blob/main/123.md)**
 
