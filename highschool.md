@@ -6,6 +6,9 @@ Homeschooling in and through High School is possible! This page is a listing of 
 
 
 ### High School Curricula - Language Arts
+- Institute for Excellence in Writing (IEW)
+  - Level C is grades 9 - 12
+    - https://iew.com/
 - Pandia Press Literature Odyssey, gr. 8 - 12
   - https://pandiapress.com/pages/literature-odyssey
 
@@ -14,17 +17,33 @@ Homeschooling in and through High School is possible! This page is a listing of 
 
 
 ### High School Curricula - Science
+- BIOZONE
+  -Secular Science series available for purchase via Amazon, written to meet Next Generation Science Standards (NGSS) and other standards.
+    - Biology for NGSS https://a.co/d/02t94B5V
+    - AP Biology https://a.co/d/0j4G1de8
+    - AP Environmental Science Student Workbook https://a.co/d/056EhRun
+    - The Living Earth (NGSS Integrating Biology and Earth Science) https://a.co/d/08P4uPl3
+    - Earth & Space Sciences https://a.co/d/0h4uQTwz
+    - Environmental Science Student Workbook https://a.co/d/0j7I3Si4
+    - Physical Sciences For NGSS https://a.co/d/000tACzs
+    - Cell Biology & Biochemistry Modular Workbook https://a.co/d/0cencMjs
+    - Chemistry in the Earth System (NGSS Integrating Chemistry and Earth Science) https://a.co/d/09Vgehgp
+    - CIE Biology 1 https://a.co/d/02wNkw6w
+- Learn Science Conceptual Academy
+  - Complete Homeschool Science for Middle and High School
+    - https://learnscience.academy/
+- The Lab of Mr. Q
+  - Classic Science series, mostly k-8; Advanced series appears to be for high school
+    - https://www.eequalsmcq.com/
 - Pandia Press Real Science Odyssey, gr. 6-10
   - https://pandiapress.com/pages/real-science-odyssey#rsolevel2
 - Taylor Made Science
   - Live and Prerecorded classes, AP and Honors available
     -  https://taylormadescience.com/
-- The Lab of Mr. Q
-  - Classic Science series, mostly k-8; Advanced series appears to be for high school
-    - https://www.eequalsmcq.com/
-
 
 ### High School Curricula - Social Studies
+- History Unboxed
+  - https://historyunboxed.com/
 - Pandia Press History Odyssey, gr. 5 - 12
   - https://pandiapress.com/pages/history-odyssey
 
@@ -42,6 +61,10 @@ Homeschooling in and through High School is possible! This page is a listing of 
 - Khan Academy
   - offers a variety of courses
     - https://www.khanacademy.org/
+- MIT OpenCourseWare
+  - https://ocw.mit.edu/
+- Oak Meadow
+  - https://www.oakmeadow.com/high-school/
 - Next Level Homeschool
   - Live Classes
     - https://nextlevelhomeschool.com/
