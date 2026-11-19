@@ -14,6 +14,9 @@ Homeschooling in and through High School is possible! This page is a listing of 
 
 
 ### High School Curricula - Math
+- Bookshark
+  - Resources available through Algebra 1.
+    - https://bookshark.com/shop-by-subjects/math 
 
 
 ### High School Curricula - Science
@@ -29,6 +32,11 @@ Homeschooling in and through High School is possible! This page is a listing of 
     - Cell Biology & Biochemistry Modular Workbook https://a.co/d/0cencMjs
     - Chemistry in the Earth System (NGSS Integrating Chemistry and Earth Science) https://a.co/d/09Vgehgp
     - CIE Biology 1 https://a.co/d/02wNkw6w
+- BookShark
+  - Considered Neutral, not Secular, literature based learning curriculum. Everything is preplanned with a thorough teacher's guide.
+  - Three All Subject Packages available for ages 14 - 16; three Reading with History packages available for ages 14 - 18; one science that is designed for ages 13 - 15 and another for ages 14 - 18.
+  - Virtual seats are available
+    - https://bookshark.com/browse-homeschool-products
 - Learn Science Conceptual Academy
   - Complete Homeschool Science for Middle and High School
     - https://learnscience.academy/
