@@ -1,8 +1,8 @@
 **Science Curricula**
 
-In no particular order. These are not strictly secular sources. Please review to make sure
-they align with your values.
+These are not strictly secular sources. Please review to make sure they align with your values.
 
+- BioZone Publishing (search Amazon for books available)
 - Bookshark Science (https://www.bookshark.com/shop-by-subjects/science-packages)
 - Build Your Library - secular literature based (https://buildyourlibrary.com/)
 - Carolina: Unleash Learning (https://programs.carolina.com/)
@@ -14,5 +14,6 @@ they align with your values.
 - Science Mom (https://sciencemom.teachable.com/)
 - Science Kids (https://www.sciencekids.co.nz/)
 - Secular Eclectic Academic (https://seahomeschoolers.com/store/product-category/science/)
+- Thinkwell Homeschool (https://www.thinkwellhomeschool.com/)
 <br></br>
 - [Return to Index Page](https://github.com/CuriosityNestHomeEd/home_education/blob/main/index.md)
