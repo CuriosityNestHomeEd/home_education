@@ -17,7 +17,9 @@ Homeschooling in and through High School is possible! This page is a listing of 
 - Bookshark
   - Resources available through Algebra 1.
     - https://bookshark.com/shop-by-subjects/math 
-
+- Thinkwell Homeschool
+  - An online platform for individual courses, honors courses available.
+    - https://www.thinkwellhomeschool.com/
 
 ### High School Curricula - Science
 - BIOZONE
@@ -48,21 +50,33 @@ Homeschooling in and through High School is possible! This page is a listing of 
 - Taylor Made Science
   - Live and Prerecorded classes, AP and Honors available
     -  https://taylormadescience.com/
+- Thinkwell Homeschool
+  - An online platform for individual courses, honors courses available.
+    - https://www.thinkwellhomeschool.com/
+   
 
 ### High School Curricula - Social Studies
 - History Unboxed
   - https://historyunboxed.com/
 - Pandia Press History Odyssey, gr. 5 - 12
   - https://pandiapress.com/pages/history-odyssey
-
+- Thinkwell Homeschool
+  - An online platform for individual courses, honors courses available.
+    - https://www.thinkwellhomeschool.com/
 
 ### High School Curricula - Electives
 
 
 ### High School Curriculum Sources - Alphabetic Order
+- All-in-One High School
+  - Not secular.
+  - https://allinonehighschool.com/
 - Beyond the Page
   - Previously, Elementary through middle school now has some high school Literature based learning.
     - https://www.beyondthepage.com/
+- Discovery K12
+  - Full Online curriculum, free for students. $99/yr for Parents/teachers
+  - https://discoveryk12.com/
 - CK12 flexbooks
   - a variety of free resources, but especially for Math and Science
     - https://www.ck12.org/fbbrowse/list/?grade=high%20school&language=all%20languages&subject=all%20subjects
@@ -71,22 +85,37 @@ Homeschooling in and through High School is possible! This page is a listing of 
     - https://www.khanacademy.org/
 - MIT OpenCourseWare
   - https://ocw.mit.edu/
-- Oak Meadow
-  - https://www.oakmeadow.com/high-school/
 - Next Level Homeschool
   - Live Classes
     - https://nextlevelhomeschool.com/
+- Oak Meadow
+  - For the advanced, artsy, independent learner
+  - https://www.oakmeadow.com/high-school/
+- Outschool
+  - An online platform to schedule, register, and take a variety of classes from credentialed educators. Academic curriculum, tutoring, enrichment courses, clubs & more available.
+    - https://outschool.com/
 - Secular Eclectic Acadmic (SEA) Store
   - Search by grade level for high school grade level specific material
   - https://seahomeschoolers.com/store/
 - Study[.]com
   - Full course coverage, multiple available plans
     - https://study.com/homeschool/plans.html
+- Thinkwell Homeschool
+  - An online platform for individual courses, honors courses available.
+    - https://www.thinkwellhomeschool.com/
 - Time4Learning
   - Online homeschooling curriculum
     - https://www.time4learning.com/collections/high-school
 - Well-Trained Mind Press
   - https://welltrainedmind.com/c/grade-level/high-school/
+ 
+### Articles / Other Resources Specific to Homeschooling through High School 
+- Coalition for Responsible Home Education (CRHE) "Homeschooling During High School"
+  - https://crhe.org/guides/resources-for-homeschool-parents/homeschooling-high-school/
+- HSLDA Teaching My Kids: High School & Beyond Answers to all your high school questions
+  - https://hslda.org/teaching-my-kids/high-school-beyond
+- NCAA Homeschool Student Initial Eligibility Requirements (for those competing at Division I or II)
+  - https://www.ncaa.org/eligibility-center/initial-eligibility-requirements/homeschool-student/
 
 <br></br> 
 - [Return to Index Page](https://github.com/CuriosityNestHomeEd/home_education/blob/main/index.md)
