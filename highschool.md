@@ -14,6 +14,8 @@ Homeschooling in and through High School is possible! This page is a listing of 
 
 
 ### High School Curricula - Math
+- Art of Problem Solving
+  - https://artofproblemsolving.com/discover/program/high-school
 - Bookshark
   - Resources available through Algebra 1.
     - https://bookshark.com/shop-by-subjects/math 
