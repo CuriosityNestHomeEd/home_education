@@ -10,7 +10,9 @@
 - Guest Hallow's Beowulf's Grammar (https://guesthollow.com/store/beowulfs-grammar/)
 - Grammar Galaxy (https://funtolearnbooks.com/grammar-galaxy/)
 - Learning Without Tears (https://www.lwtears.com/)
+- Night Zoo Keeper (https://www.nightzookeeper.com/)
 - Prenda Glyph Guild Spelling (https://glyphguild.prenda.com/)
+- Reading Eggs (https://readingeggs.com/homeschool/)
 - Wordly Wise 3000 from EPS Learning (https://www.epslearning.com/products/wordly-wise-overview)
 
 <br></br>
