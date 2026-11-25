@@ -26,7 +26,7 @@ Homeschooling in and through High School is possible! This page is a listing of 
   - Award winning Web based program, one subscription access to the entire K-12 material.
   - Fully online curriculum, at student's pace, but also has printable worksheets available.
   - Algebra 1, Geometry, Algebra II, Pre-Calculus (Including Trigonometry), and Calculus available.
-  - https://ctcmath.com/how-it-works/home-school
+    - https://ctcmath.com/how-it-works/home-school
 
 ### High School Curricula - Science
 - BIOZONE
@@ -87,6 +87,11 @@ Homeschooling in and through High School is possible! This page is a listing of 
 - CK12 flexbooks
   - a variety of free resources, but especially for Math and Science
     - https://www.ck12.org/fbbrowse/list/?grade=high%20school&language=all%20languages&subject=all%20subjects
+- CTCMath
+  - Award winning Web based program, one subscription access to the entire K-12 material.
+  - Fully online curriculum, at student's pace, but also has printable worksheets available.
+  - Algebra 1, Geometry, Algebra II, Pre-Calculus (Including Trigonometry), and Calculus available.
+    - https://ctcmath.com/how-it-works/home-school
 - Khan Academy
   - offers a variety of courses
     - https://www.khanacademy.org/
