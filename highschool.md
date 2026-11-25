@@ -95,6 +95,10 @@ Homeschooling in and through High School is possible! This page is a listing of 
 - Khan Academy
   - offers a variety of courses
     - https://www.khanacademy.org/
+- MiaPrep
+  - An all-in-one online curriculum / platform
+  - Grades 7-12 available, so courses can be adjusted as needed.
+    - https://miaprep.com/
 - MIT OpenCourseWare
   - https://ocw.mit.edu/
 - Next Level Homeschool
