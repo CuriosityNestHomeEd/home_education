@@ -1,5 +1,5 @@
 # Home Education
-This repository is a list of notes on where to find particular homeschooling resources. The user is individually responsible for ensuring they follow all laws for the area they live and not depend on this repository for legal advisement. No money is made with links shared. This is information sharing only. Any opinions and mistakes written here are my own and not reflective of any company I may be associated with.
+This repository is a list of notes on where to find particular homeschooling resources. It began as a way to store information quickly during research. The user is individually responsible for ensuring they follow all laws for the area they live and not depend on this repository for legal advisement. No money is made with links shared. This is information sharing only. Any opinions and mistakes written here are my own and not reflective of any company I may be associated with.
 
 A Little Background
 
