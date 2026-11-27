@@ -16,4 +16,4 @@ These are not strictly secular sources. Please review to make sure they align wi
 - Secular Eclectic Academic (https://seahomeschoolers.com/store/product-category/science/)
 - Thinkwell Homeschool (https://www.thinkwellhomeschool.com/)
 <br></br>
-- [Return to Index Page](https://github.com/CuriosityNestHomeEd/home_education/blob/main/index.md)
+[Return to Index Page](https://github.com/CuriosityNestHomeEd/home_education/blob/main/index.md)
